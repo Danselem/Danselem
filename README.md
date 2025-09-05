@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Daniel Egbo  
 
 🚀 **Data Scientist | Machine Learning Engineer | Astronomy Researcher**  
-🌍 **[Tavily AI](https://www.tavily.com/)) Ambassador | [Arize Phoenix AI](https://phoenix.arize.com/) Ambassador**  
+🌍 **[Tavily AI](https://www.tavily.com/) Ambassador | [Arize Phoenix AI](https://phoenix.arize.com/) Ambassador**  
 
 I’m passionate about turning **data into actionable insights and intelligent systems**.  
 With a background in **astronomy (PhD researcher)** and hands-on experience in **machine learning, MLOps, and data engineering**, I enjoy solving complex problems across both science and industry.  
