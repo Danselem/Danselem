@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Daniel Egbo  
 
 🚀 **Data Scientist | Machine Learning Engineer | Astronomy Researcher**  
-🌍 **Tavily AI Ambassador | Arize Phoenix AI Ambassador**  
+🌍 **[Tavily AI](https://www.tavily.com/)) Ambassador | [Arize Phoenix AI](https://phoenix.arize.com/) Ambassador**  
 
 I’m passionate about turning **data into actionable insights and intelligent systems**.  
 With a background in **astronomy (PhD researcher)** and hands-on experience in **machine learning, MLOps, and data engineering**, I enjoy solving complex problems across both science and industry.  
@@ -33,7 +33,7 @@ With a background in **astronomy (PhD researcher)** and hands-on experience in *
 
 ### 💬 Ask Me About  
 - Data Science & Machine Learning  
-- MLOps (MLflow, Docker, Airflow, AWS)  
+- MLOps (MLflow, Docker, Airflow, Prefect, AWS, GCP)  
 - Astronomy (stellar astrophysics, radio astronomy, spectroscopy)  
 - AI Advocacy & Community Building  
 
@@ -42,7 +42,7 @@ With a background in **astronomy (PhD researcher)** and hands-on experience in *
 ### 📫 How to reach me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbodaniel/)  
 - 🐦 [Website](https://danselem.github.io)  
-- 📧 Email: **[danoegbo@gmail.com]**  
+- 📧 Email: [danoegbo@gmail.com]  
 
 ---
 
