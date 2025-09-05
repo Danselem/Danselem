@@ -42,7 +42,7 @@ With a background in **astronomy (PhD researcher)** and hands-on experience in *
 ### 📫 How to reach me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/egbodaniel/)  
 - 🐦 [Website](https://danselem.github.io)  
-- 📧 Email: [danoegbo@gmail.com]  
+- 📧 Email: [danoegbo@gmail.com](danoegbo@gmail.com) 
 
 ---
 
